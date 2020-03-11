@@ -32,7 +32,7 @@ def literal_aoh
     {:name => "Bruce Green", :occupation => "Fan of Mildred"}
     ]
   
-  x[2][:occupation]
+  
   
 end
 
